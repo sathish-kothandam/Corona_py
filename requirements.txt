@@ -15,7 +15,7 @@ django-debug-toolbar==2.2
 django-filter==2.2.0
 django-memcache-status==2.2
 django-tables2==2.2.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 gunicorn==20.0.4
 idna==2.9
 Markdown==3.2.1
