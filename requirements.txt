@@ -38,4 +38,4 @@ tablib==1.1.0
 toml==0.10.0
 typed-ast==1.4.1
 Unidecode==1.1.1
-urllib3==1.25.8
+urllib3==1.26.5
